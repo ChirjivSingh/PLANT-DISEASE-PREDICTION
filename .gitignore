@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+ENV/
+
+# Large model binaries / weights (if you prefer tracking weights separately or via Git LFS)
+# *.keras
+# *.h5
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
